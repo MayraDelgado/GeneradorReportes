@@ -1,0 +1,13 @@
+{
+  "name": "generadorReportesPepsico",
+  "supportEmail": "mayra.delgado@metricamovil.com",
+  "version": "0.0.1",
+  "items": [{
+    "url": "https://www.example.com/myaddin/generadorReportesPepsico.html",
+    "path": "",
+    "menuName": {
+      "en": "generadorReportesPepsico"
+    },
+    "icon": "https://www.example.com/myaddin/images/icon.svg"
+  }]
+}
